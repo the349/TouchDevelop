@@ -1,6 +1,6 @@
 /* Re-usable, generic rules */
-body {
-  background url(mrjay.oyosite.com/joesun.png);
+html {
+  background: url(mrjay.oyosite.com/joesun.png);
 }
 .hidden {
   display: none !important;
