@@ -1,4 +1,7 @@
 /* Re-usable, generic rules */
+html {
+  background url(htp://mrjay.oyosite.com/joesun.png);
+}
 .hidden {
   display: none !important;
 }
